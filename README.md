@@ -20,6 +20,8 @@ My solutions for LeetCode problems
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./python/problem-1290.py)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./python/problem-1295.py)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](./python/problem-1299.py)|Easy|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](./python/problem-1304.py)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](./python/problem-1313.py)|Easy|
+|1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](./python/problem-1323.py)|Easy|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](./python/problem-1351.py)|Easy|
 |1365|[How Many Numbers are Smaller than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./python/problem-1365.py)|Easy|
