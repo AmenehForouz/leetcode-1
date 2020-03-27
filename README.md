@@ -3,8 +3,8 @@ My solutions for LeetCode problems
 
 |#|Problem|Solution|Difficulty|
 |-|-------|--------|----------|
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./python/problem-461)|Easy|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./python/problem-509)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./python/problem-461.py)|Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./python/problem-509.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./python/problem-617.py)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](./python/problem-657.py)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./python/problem-700.py)|Easy|
