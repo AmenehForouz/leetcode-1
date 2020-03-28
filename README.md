@@ -3,13 +3,15 @@ My solutions for LeetCode problems
 
 |#|Problem|Solution|Difficulty|
 |-|-------|--------|----------|
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./python/problem-461)|Easy|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./python/problem-509)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./python/problem-461.py)|Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./python/problem-509.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./python/problem-617.py)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](./python/problem-657.py)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./python/problem-700.py)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./python/problem-709.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./python/problem-771.py)|Easy|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./python/problem-832.py)|Easy|
+|905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./python/problem-905.py)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./python/problem-938.py)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./python/problem-961.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./python/problem-977.py)|Easy|
