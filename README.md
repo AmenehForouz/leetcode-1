@@ -23,6 +23,7 @@ My solutions for LeetCode problems
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python 3](./python/problem-1295.py)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python 3](./python/problem-1299.py)|Easy|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python 3](./python/problem-1304.py)|Easy|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Python 3](./python/problem-1305.py)|Medium|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python 3](./python/problem-1313.py)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python 3](./python/problem-1323.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python 3](./python/problem-1342.py)|Easy|
