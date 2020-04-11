@@ -10,6 +10,7 @@ My solutions for LeetCode problems
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./python/problem-700.py)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python 3](./python/problem-709.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python 3](./python/problem-771.py)|Easy|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python 3](./python/problem-804.py)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python 3](./python/problem-832.py)|Easy|
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python 3](./python/problem-905.py)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python 3](./python/problem-938.py)|Easy|
