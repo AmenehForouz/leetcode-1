@@ -9,6 +9,8 @@ nodes overlap, then sum node values up as the new value of the merged node.
 Otherwise, the NOT null node will be used as the node of new tree.
 """
 
+from typing import List
+
 
 class TreeNode:
     
@@ -54,7 +56,7 @@ class Solution:
 
 
 # Preorder traversal
-def showTree(t: TreeNode):
+def showTree(t: TreeNode) -> List[int]:
     tree_list = []
     if t:
         tree_list.append(t.val)

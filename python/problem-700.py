@@ -7,6 +7,8 @@ Return the subtree rooted with that node. If such node doesn't exist, you
 should return NULL.
 """
 
+from typing import List
+
 
 class TreeNode:
     
@@ -33,7 +35,7 @@ class Solution:
 
 
 # Preorder traversal
-def showTree(t: TreeNode):
+def showTree(t: TreeNode) -> List[int]:
     tree_list = []
     if t:
         tree_list.append(t.val)
