@@ -7,6 +7,7 @@ My solutions for LeetCode problems
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python 3](./python/problem-7.py)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](./python/problem-9.py)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python 3](./python/problem-13.py)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python 3](./python/problem-20.py)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-461.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-509.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-617.py)|Easy|
