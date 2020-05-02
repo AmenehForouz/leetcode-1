@@ -10,6 +10,7 @@ My solutions for LeetCode problems
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python 3](./python/problem-20.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python 3](./python/problem-21.py)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python 3](./python/problem-23.py)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./python/problem-24.py)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python 3](./python/problem-26.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python 3](./python/problem-27.py)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-461.py)|Easy|
