@@ -19,6 +19,6 @@ class Solution:
 
 
 if __name__ == "__main__":
-	print(Solution().isPalindrome(121)) # Should return True
-	print(Solution().isPalindrome(-121)) # Should return False
-	print(Solution().isPalindrome(10)) # Should return False
+    print(Solution().isPalindrome(121)) # Should return True
+    print(Solution().isPalindrome(-121)) # Should return False
+    print(Solution().isPalindrome(10)) # Should return False

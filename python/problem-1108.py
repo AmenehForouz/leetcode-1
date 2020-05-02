@@ -14,8 +14,8 @@ class Solution:
 
 
 if __name__ == "__main__":
-	# Should return '1[.]1[.]1[.]1'
-	print(Solution().defangIPaddr('1.1.1.1'))
+    # Should return '1[.]1[.]1[.]1'
+    print(Solution().defangIPaddr('1.1.1.1'))
 
-	# Should return '255[.]100[.]50[.]0'
-	print(Solution().defangIPaddr('255.100.50.0'))
+    # Should return '255[.]100[.]50[.]0'
+    print(Solution().defangIPaddr('255.100.50.0'))

@@ -18,4 +18,4 @@ class Solution:
         return hd
 
 if __name__ == "__main__":
-	print(Solution().hammingDistance(1, 4)) # Should return 2
+    print(Solution().hammingDistance(1, 4)) # Should return 2

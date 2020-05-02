@@ -15,8 +15,8 @@ class Solution:
         return sorted(A)
 
 if __name__ == "__main__":
-	# Should return [0, 1, 9, 16, 100]
-	print(Solution().sortedSquares([-4, -1, 0, 3, 10]))
+    # Should return [0, 1, 9, 16, 100]
+    print(Solution().sortedSquares([-4, -1, 0, 3, 10]))
 
-	# Should return [4, 9, 9, 49, 121]
-	print(Solution().sortedSquares([-7, -3, 2, 3, 11]))
+    # Should return [4, 9, 9, 49, 121]
+    print(Solution().sortedSquares([-7, -3, 2, 3, 11]))

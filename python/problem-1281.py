@@ -20,5 +20,5 @@ class Solution:
 
 
 if __name__ == "__main__":
-	print(Solution().subtractProductAndSum(234)) # Should return 15
-	print(Solution().subtractProductAndSum(4421)) # Should return 21
+    print(Solution().subtractProductAndSum(234)) # Should return 15
+    print(Solution().subtractProductAndSum(4421)) # Should return 21

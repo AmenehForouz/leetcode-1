@@ -20,5 +20,5 @@ class Solution:
         return newArray
 
 if __name__ == "__main__":
-	# Should return [18, 6, 6, 6, 1, -1]
-	print(Solution().replaceElements([17, 18, 5, 4, 6, 1]))
+    # Should return [18, 6, 6, 6, 1, -1]
+    print(Solution().replaceElements([17, 18, 5, 4, 6, 1]))
