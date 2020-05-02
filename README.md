@@ -3,29 +3,30 @@ My solutions for LeetCode problems
 
 |#|Problem|Solution|Difficulty|
 |-|-------|--------|----------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](./python/problem-1.py)|Easy|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python 3](./python/problem-7.py)|Easy|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](./python/problem-9.py)|Easy|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python 3](./python/problem-13.py)|Easy|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python 3](./python/problem-20.py)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python 3](./python/problem-21.py)|Easy|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python 3](./python/problem-23.py)|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./python/problem-24.py)|Medium|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python 3](./python/problem-26.py)|Easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python 3](./python/problem-27.py)|Easy|
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-461.py)|Easy|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-509.py)|Easy|
-|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-617.py)|Easy|
-|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python 3](./python/problem-657.py)|Easy|
-|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./python/problem-700.py)|Easy|
-|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python 3](./python/problem-709.py)|Easy|
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python 3](./python/problem-771.py)|Easy|
-|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python 3](./python/problem-804.py)|Easy|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python 3](./python/problem-832.py)|Easy|
-|905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python 3](./python/problem-905.py)|Easy|
-|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python 3](./python/problem-938.py)|Easy|
-|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python 3](./python/problem-961.py)|Easy|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python 3](./python/problem-977.py)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](./python/problem-0001.py)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python 3](./python/problem-0007.py)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](./python/problem-0009.py)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python 3](./python/problem-0013.py)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python 3](./python/problem-0020.py)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python 3](./python/problem-0021.py)|Easy|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python 3](./python/problem-0023.py)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python 3](./python/problem-0024.py)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python 3](./python/problem-0026.py)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python 3](./python/problem-0027.py)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python 3](./python/problem-0028.py)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-0461.py)|Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-0617.py)|Easy|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python 3](./python/problem-0657.py)|Easy|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./python/problem-0700.py)|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python 3](./python/problem-0709.py)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python 3](./python/problem-0771.py)|Easy|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python 3](./python/problem-0804.py)|Easy|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python 3](./python/problem-0832.py)|Easy|
+|905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python 3](./python/problem-0905.py)|Easy|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python 3](./python/problem-0938.py)|Easy|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python 3](./python/problem-0961.py)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python 3](./python/problem-0977.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python 3](./python/problem-1108.py)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python 3](./python/problem-1221.py)|Easy|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python 3](./python/problem-1266.py)|Easy|
