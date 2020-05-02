@@ -14,6 +14,7 @@ My solutions for LeetCode problems
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python 3](./python/problem-0026.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python 3](./python/problem-0027.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python 3](./python/problem-0028.py)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python 3](./python/problem-0066.py)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-0461.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-0617.py)|Easy|
