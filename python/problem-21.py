@@ -1,5 +1,6 @@
 """
 Problem 21 - Merge Two Sorted Lists
+
 Merge two sorted linked lists and return it as a new list. The new list 
 should be made by splicing together the nodes of the first two lists.
 """
@@ -16,32 +17,19 @@ class ListNode:
 class Solution:
     
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-        if not l1 and not l2:
-            return None
-        
+        vals = []
+        while l1:
+            vals.append(l1.val)
+            l1 = l1.next
+        while l2:
+            vals.append(l2.val)
+            l2 = l2.next
         head = ListNode(None)
         temp_node = head
-        while True:
-            if l1 and l2:
-                if l1.val < l2.val:
-                    temp_node.val = l1.val
-                    l1 = l1.next
-                else:
-                    temp_node.val = l2.val
-                    l2 = l2.next
-            elif l1 and not l2:
-                temp_node.val = l1.val
-                l1 = l1.next
-            elif l2 and not l1:
-                temp_node.val = l2.val
-                l2 = l2.next
-            if not l1 and not l2:
-                break
-            else:
-                temp_node.next = ListNode(None)
-                temp_node = temp_node.next
-        return head
-
+        for val in sorted(vals):
+            temp_node.next = ListNode(val)
+            temp_node = temp_node.next
+        return head.next
 
 
 def createList(vals: List[int]) -> ListNode:
