@@ -22,6 +22,7 @@ My solutions for LeetCode problems
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python 3](./python/problem-0104.py)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python 3](./python/problem-0118.py)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python 3](./python/problem-0119.py)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[Python 3](./python/problem-0120.py)|Medium|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-0461.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-0617.py)|Easy|
