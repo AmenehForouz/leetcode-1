@@ -19,6 +19,7 @@ My solutions for LeetCode problems
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python 3](./python/problem-0070.py)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python 3](./python/problem-0083.py)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python 3](./python/problem-0088.py)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python 3](./python/problem-0104.py)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-0461.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-0617.py)|Easy|
