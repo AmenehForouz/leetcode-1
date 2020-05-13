@@ -28,6 +28,7 @@ My solutions for LeetCode problems
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](./sql/problem-0595.sql)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-0617.py)|Easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./sql/problem-0620.sql)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python 3](./python/problem-0657.py)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./python/problem-0700.py)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python 3](./python/problem-0709.py)|Easy|
