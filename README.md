@@ -25,6 +25,7 @@ My solutions for LeetCode problems
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python 3](./python/problem-0120.py)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./sql/problem-0175.sql)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](./sql/problem-0176.sql)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./sql/problem-0182.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](./sql/problem-0183.sql)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-0461.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
