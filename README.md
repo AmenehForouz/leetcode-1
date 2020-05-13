@@ -23,8 +23,10 @@ My solutions for LeetCode problems
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python 3](./python/problem-0118.py)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python 3](./python/problem-0119.py)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python 3](./python/problem-0120.py)|Medium|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./sql/problem-0175.sql)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python 3](./python/problem-0461.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python 3](./python/problem-0509.py)|Easy|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](./sql/problem-0595.sql)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python 3](./python/problem-0617.py)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python 3](./python/problem-0657.py)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python 3](./python/problem-0700.py)|Easy|
