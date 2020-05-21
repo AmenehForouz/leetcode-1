@@ -61,4 +61,5 @@ My solutions for LeetCode problems
 |1374|[Generate a String With Characters that Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python 3](./python/problem-1374.py)|Easy|
 |1389|[Create Target Array in Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python 3](./python/problem-1389.py)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python 3](./python/problem-1431.py)|Easy|
+|1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python 3](./python/problem-1436.py)|Easy|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python 3](./python/problem-1450.py)|Easy|
