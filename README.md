@@ -44,6 +44,7 @@ My solutions for LeetCode problems
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python 3](./python/problem-0961.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python 3](./python/problem-0977.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python 3](./python/problem-1108.py)|Easy|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./sql/problem-1179.sql)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python 3](./python/problem-1221.py)|Easy|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python 3](./python/problem-1266.py)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python 3](./python/problem-1281.py)|Easy|
