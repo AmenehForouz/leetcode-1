@@ -46,6 +46,7 @@ My solutions for LeetCode problems
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python 3](./python/problem-1108.py)|Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./sql/problem-1179.sql)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python 3](./python/problem-1221.py)|Easy|
+|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python 3](./python/problem-1252.py)|Easy|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python 3](./python/problem-1266.py)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python 3](./python/problem-1281.py)|Easy|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python 3](./python/problem-1290.py)|Easy|
