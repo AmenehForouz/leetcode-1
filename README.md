@@ -58,3 +58,4 @@ My solutions for LeetCode problems
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python 3](./python/problem-1351.py)|Easy|
 |1365|[How Many Numbers are Smaller than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python 3](./python/problem-1365.py)|Easy|
 |1374|[Generate a String With Characters that Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python 3](./python/problem-1374.py)|Easy|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python 3](./python/problem-1431.py)|Easy|
