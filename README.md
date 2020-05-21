@@ -4,7 +4,7 @@ My solutions for LeetCode problems
 |#|Problem|Solution|Difficulty|
 |-|-------|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](./python/problem-0001.py)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/|[Python 3](./python/problem-0002.py)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python 3](./python/problem-0002.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python 3](./python/problem-0007.py)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](./python/problem-0009.py)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python 3](./python/problem-0013.py)|Easy|
