@@ -11,25 +11,24 @@ number 0 itself.
 
 from typing import List
 
+
 class ListNode:
-   
     def __init__(self, x):
         self.val = x
         self.next = None
 
 
 class Solution:
-
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         val1 = []
         val2 = []
         while l1:
             val1.append(str(l1.val))
-            l1 = l1.next 
+            l1 = l1.next
         while l2:
             val2.append(str(l2.val))
             l2 = l2.next
-        sum_numbers = str(int(''.join(val1[::-1])) + int(''.join(val2[::-1])))
+        sum_numbers = str(int("".join(val1[::-1])) + int("".join(val2[::-1])))
         head = ListNode(0)
         temp = head
         for i in range(len(sum_numbers) - 1, -1, -1):
@@ -46,17 +45,19 @@ def createList(vals: List[int]) -> ListNode:
         temp_node = temp_node.next
     return head
 
+
 def showList(l: ListNode):
-    list_string = ''
+    list_string = ""
     while l:
         list_string += str(l.val)
         l = l.next
         if l:
-            list_string += ' -> '
+            list_string += " -> "
     return list_string
+
 
 if __name__ == "__main__":
     l1 = createList([2, 4, 3])
     l2 = createList([5, 6, 4])
     summed_list = Solution().addTwoNumbers(l1, l2)
-    print(showList(summed_list)) # Should return '1 -> 1 -> 2 -> 3 -> 4 -> 4'
+    print(showList(summed_list))  # Should return '1 -> 1 -> 2 -> 3 -> 4 -> 4'

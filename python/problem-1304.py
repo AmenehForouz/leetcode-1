@@ -16,10 +16,10 @@ class Solution:
             return [-n, n]
         else:
             sum = 0
-            output = [0]*n
+            output = [0] * n
             for i in range(len(output) - 1):
                 output[i] = -n + i
-                sum += (-n + i)
+                sum += -n + i
             output[-1] = -sum
             return output
 

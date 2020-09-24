@@ -1,5 +1,5 @@
 class Solution:
-    def numberOfSteps (self, num: int) -> int:
+    def numberOfSteps(self, num: int) -> int:
         steps = 0
         while True:
             if num == 0:

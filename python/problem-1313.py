@@ -3,5 +3,5 @@ class Solution:
         decompressed = []
         for i in range(0, len(nums), 2):
             for j in range(nums[i]):
-                decompressed.append(nums[i+1])
+                decompressed.append(nums[i + 1])
         return decompressed

@@ -9,10 +9,10 @@ from typing import List
 
 
 class Solution:
-    
     def sortedSquares(self, A: List[int]) -> List[int]:
-        A = [i**2 for i in A]
+        A = [i ** 2 for i in A]
         return sorted(A)
+
 
 if __name__ == "__main__":
     # Should return [0, 1, 9, 16, 100]

@@ -11,7 +11,6 @@ from typing import List
 
 
 class TreeNode:
-    
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
@@ -19,7 +18,6 @@ class TreeNode:
 
 
 class Solution:
-
     def maxDepth(self, root: TreeNode) -> int:
         if not root:
             return 0
@@ -42,7 +40,8 @@ def showTree(t: TreeNode) -> List[int]:
         tree_list = tree_list + showTree(t.right)
     return tree_list
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     root = TreeNode(val=3)
     root.left = TreeNode(val=9)
     root.right = TreeNode(val=20)

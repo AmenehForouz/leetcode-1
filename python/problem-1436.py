@@ -12,19 +12,24 @@ therefore, there will be exactly one destination city.
 
 from typing import List
 
-class Solution:
 
+class Solution:
     def destCity(self, paths: List[List[str]]) -> str:
         origins = [i[0] for i in paths]
         destinations = [i[1] for i in paths]
         destination_city = set(destinations) - set(origins)
         return destination_city.pop()
 
-if __name__ == '__main__':
-    paths = [['London', 'New York'], ['New York', 'Lima'], ['Lima', 'Sao Paolo']]
+
+if __name__ == "__main__":
+    paths = [
+        ["London", "New York"],
+        ["New York", "Lima"],
+        ["Lima", "Sao Paolo"],
+    ]
     # Should return Sao Paolo
     print(Solution().destCity(paths))
 
-    paths = [['B', 'C'], ['D', 'B'], ['C', 'A']]
+    paths = [["B", "C"], ["D", "B"], ["C", "A"]]
     # Should return A
     print(Solution().destCity(paths))

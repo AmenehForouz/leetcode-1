@@ -13,34 +13,33 @@ Note that an empty string is also considered valid.
 
 
 class Solution:
-    
     def isValid(self, s: str) -> bool:
-        if s == '':
+        if s == "":
             return True
         elif len(s) % 2 != 0:
             return False
         else:
             open_brackets = []
-            closed_brackets = {'(':')', '[':']', '{':'}'}
+            closed_brackets = {"(": ")", "[": "]", "{": "}"}
             for i in s:
-                if i in ['(', '[', '{']:
+                if i in ["(", "[", "{"]:
                     open_brackets.append(i)
-                if i in [')', ']', '}']:
+                if i in [")", "]", "}"]:
                     if len(open_brackets) == 0:
                         return False
                     elif i != closed_brackets[open_brackets.pop(-1)]:
                         return False
-            
+
             if len(open_brackets) > 0:
                 return False
             else:
                 return True
 
-        
+
 if __name__ == "__main__":
-    print(Solution().isValid('()')) # Should return True
-    print(Solution().isValid('()[]{}')) # Should return True
-    print(Solution().isValid('(]')) # Should return False
-    print(Solution().isValid('([)]')) # Should return False
-    print(Solution().isValid('{[]}')) # Should return True
-    print(Solution().isValid('((')) # Should return False
+    print(Solution().isValid("()"))  # Should return True
+    print(Solution().isValid("()[]{}"))  # Should return True
+    print(Solution().isValid("(]"))  # Should return False
+    print(Solution().isValid("([)]"))  # Should return False
+    print(Solution().isValid("{[]}"))  # Should return True
+    print(Solution().isValid("(("))  # Should return False

@@ -13,7 +13,6 @@ from typing import List
 
 
 class TreeNode:
-    
     def __init__(self, x):
         self.val = x
         self.left = None
@@ -21,15 +20,14 @@ class TreeNode:
 
 
 class Solution:
-    
     def mergeTrees(self, t1: TreeNode, t2: TreeNode) -> TreeNode:
         if t1 == None:
             return t2
         elif t2 == None:
             return t1
-        
+
         newTree = TreeNode(t1.val + t2.val)
-        
+
         if t1.left == None:
             if t2.left == None:
                 newTree.left = None
@@ -40,7 +38,7 @@ class Solution:
                 newTree.left = t1.left
             else:
                 newTree.left = self.mergeTrees(t1.left, t2.left)
-        
+
         if t1.right == None:
             if t2.right == None:
                 newTree.right = None
@@ -51,7 +49,7 @@ class Solution:
                 newTree.right = t1.right
             else:
                 newTree.right = self.mergeTrees(t1.right, t2.right)
-        
+
         return newTree
 
 
@@ -64,13 +62,14 @@ def showTree(t: TreeNode) -> List[int]:
         tree_list = tree_list + showTree(t.right)
     return tree_list
 
+
 if __name__ == "__main__":
     # Tree t1
     t1 = TreeNode(1)
     t1.left = TreeNode(3)
     t1.left.left = TreeNode(5)
     t1.right = TreeNode(2)
-    
+
     # Tree t2
     t2 = TreeNode(2)
     t2.left = TreeNode(1)
@@ -79,4 +78,4 @@ if __name__ == "__main__":
     t2.right.right = TreeNode(7)
 
     merged_tree = Solution().mergeTrees(t1, t2)
-    print(showTree(merged_tree)) # Should return [3, 4, 5, 4, 5, 7]
+    print(showTree(merged_tree))  # Should return [3, 4, 5, 4, 5, 7]

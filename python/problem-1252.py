@@ -12,8 +12,8 @@ the increment to all indices.
 from typing import List
 import numpy as np
 
-class Solution:
 
+class Solution:
     def oddCells(self, n: int, m: int, indices: List[List[int]]) -> int:
         matrix = np.zeros(shape=(n, m), dtype=int)
         for i in indices:
@@ -26,9 +26,10 @@ class Solution:
                     odd_nums += 1
         return odd_nums
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     n = 2
     m = 3
-    indices =[[0,1], [1,1]]
+    indices = [[0, 1], [1, 1]]
     # Should return 6
     print(Solution().oddCells(n, m, indices))

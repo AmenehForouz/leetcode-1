@@ -9,13 +9,12 @@ from typing import List
 
 
 class ListNode:
-   
     def __init__(self, x):
         self.val = x
         self.next = None
 
+
 class Solution:
-    
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
         values = []
         for i in lists:
@@ -38,14 +37,16 @@ def createList(vals: List[int]) -> ListNode:
         temp_node = temp_node.next
     return head
 
+
 def showList(l: ListNode):
-    list_string = ''
+    list_string = ""
     while l:
         list_string += str(l.val)
         l = l.next
         if l:
-            list_string += ' -> '
+            list_string += " -> "
     return list_string
+
 
 if __name__ == "__main__":
     l1 = createList([1, 4, 5])

@@ -15,7 +15,6 @@ from typing import List
 
 
 class Solution:
-    
     def flipAndInvertImage(self, A: List[List[int]]) -> List[List[int]]:
         for i in A:
             i.reverse()
@@ -26,12 +25,13 @@ class Solution:
                     i[j] = 0
         return A
 
+
 if __name__ == "__main__":
-	img1 = [[1, 1, 0], [1, 0, 1], [0, 0, 0]]
-	img2 = [[1, 1, 0, 0], [1, 0, 0, 1], [0, 1, 1, 1], [1, 0, 1, 0]]
+    img1 = [[1, 1, 0], [1, 0, 1], [0, 0, 0]]
+    img2 = [[1, 1, 0, 0], [1, 0, 0, 1], [0, 1, 1, 1], [1, 0, 1, 0]]
 
-	# Should return [[1, 0, 0], [0, 1, 0], [1, 1, 1]]
-	print(Solution().flipAndInvertImage(img1))
+    # Should return [[1, 0, 0], [0, 1, 0], [1, 1, 1]]
+    print(Solution().flipAndInvertImage(img1))
 
-	# Should return [[1, 1, 0, 0], [0, 1, 1, 0], [0, 0, 0, 1], [1, 0, 1, 0]]
-	print(Solution().flipAndInvertImage(img2))
+    # Should return [[1, 1, 0, 0], [0, 1, 1, 0], [0, 0, 0, 1], [1, 0, 1, 0]]
+    print(Solution().flipAndInvertImage(img2))

@@ -9,7 +9,6 @@ needle is not part of haystack.
 
 
 class Solution:
-
     def strStr(self, haystack: str, needle: str) -> int:
         if not needle:
             return 0
@@ -21,9 +20,9 @@ class Solution:
                 return len(str_arr[0])
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # Should return 2
-    print(Solution().strStr('hello', 'll'))
-    
+    print(Solution().strStr("hello", "ll"))
+
     # Should return -1
-    print(Solution().strStr('aaaaa', 'bba'))
+    print(Solution().strStr("aaaaa", "bba"))

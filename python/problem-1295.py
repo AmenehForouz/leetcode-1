@@ -9,7 +9,6 @@ from typing import List
 
 
 class Solution:
-    
     def findNumbers(self, nums: List[int]) -> int:
         numEven = 0
         for i in nums:
@@ -19,5 +18,5 @@ class Solution:
 
 
 if __name__ == "__main__":
-    print(Solution().findNumbers([12, 345, 2, 6, 7896])) # Should return 2
-    print(Solution().findNumbers([555, 901, 482, 1771])) # Should return 1
+    print(Solution().findNumbers([12, 345, 2, 6, 7896]))  # Should return 2
+    print(Solution().findNumbers([555, 901, 482, 1771]))  # Should return 1

@@ -11,9 +11,11 @@ Notice that multiple kids can have the greatest number of candies.
 
 from typing import List
 
-class Solution:
 
-    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
+class Solution:
+    def kidsWithCandies(
+        self, candies: List[int], extraCandies: int
+    ) -> List[bool]:
         can_have_most = []
         for kid in candies:
             if kid + extraCandies >= max(candies):
@@ -21,8 +23,9 @@ class Solution:
             else:
                 can_have_most.append(False)
         return can_have_most
-    
-if __name__ == '__main__':
+
+
+if __name__ == "__main__":
     candies = [2, 3, 5, 1, 3]
     extraCandies = 3
     # Should return [True, True, True, False, True]

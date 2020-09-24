@@ -15,7 +15,6 @@ from typing import List
 
 
 class Solution:
-    
     def removeElement(self, nums: List[int], val: int) -> int:
         if len(nums) == 0:
             return 0
@@ -23,13 +22,13 @@ class Solution:
             temp_index = 0
             while temp_index < len(nums):
                 if nums[temp_index] == val:
-                	nums.pop(temp_index)
+                    nums.pop(temp_index)
                 else:
-                	temp_index += 1
+                    temp_index += 1
         return len(nums)
 
 
 if __name__ == "__main__":
-	print(Solution().removeElement([3, 2, 2, 3], 3)) # Should return 2
+    print(Solution().removeElement([3, 2, 2, 3], 3))  # Should return 2
     # Should return 5
-	print(Solution().removeElement([0, 1, 2, 2, 3, 0, 4, 2], 2))
+    print(Solution().removeElement([0, 1, 2, 2, 3, 0, 4, 2], 2))

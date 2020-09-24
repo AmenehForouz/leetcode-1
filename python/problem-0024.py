@@ -11,13 +11,12 @@ from typing import List
 
 
 class ListNode:
-   
     def __init__(self, x):
         self.val = x
         self.next = None
 
+
 class Solution:
-    
     def swapPairs(self, head: ListNode) -> ListNode:
         new_head = ListNode(None)
         new_head.next = head
@@ -33,6 +32,7 @@ class Solution:
             temp_1 = temp_3.next
         return new_head.next
 
+
 def createList(vals: List[int]) -> ListNode:
     head = ListNode(vals[0])
     temp_node = head
@@ -41,16 +41,18 @@ def createList(vals: List[int]) -> ListNode:
         temp_node = temp_node.next
     return head
 
+
 def showList(l: ListNode):
-    list_string = ''
+    list_string = ""
     while l:
         list_string += str(l.val)
         l = l.next
         if l:
-            list_string += ' -> '
+            list_string += " -> "
     return list_string
 
+
 if __name__ == "__main__":
-	l = createList([1, 2, 3, 4])
-	# Should return '2 -> 1 -> 4 -> 3'
-	print(showList(Solution().swapPairs(l)))
+    l = createList([1, 2, 3, 4])
+    # Should return '2 -> 1 -> 4 -> 3'
+    print(showList(Solution().swapPairs(l)))

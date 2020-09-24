@@ -11,7 +11,6 @@ from typing import List
 
 
 class Solution:
-    
     def sortArrayByParity(self, A: List[int]) -> List[int]:
         evenList = []
         oddList = []
@@ -22,6 +21,7 @@ class Solution:
                 oddList.append(i)
         return evenList + oddList
 
+
 if __name__ == "__main__":
-	# Should return [2, 4, 3, 1]
-	print(Solution().sortArrayByParity([3, 1, 2, 4]))
+    # Should return [2, 4, 3, 1]
+    print(Solution().sortArrayByParity([3, 1, 2, 4]))

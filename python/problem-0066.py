@@ -15,9 +15,8 @@ from typing import List
 
 
 class Solution:
-
     def plusOne(self, digits: List[int]) -> List[int]:
-        new_val = ''.join([str(i) for i in digits])
+        new_val = "".join([str(i) for i in digits])
         new_val = str(int(new_val) + 1)
         out_digits = []
         for i in new_val:
@@ -25,7 +24,7 @@ class Solution:
         return out_digits
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # Should return [1, 2, 4]
     print(Solution().plusOne([1, 2, 3]))
 
